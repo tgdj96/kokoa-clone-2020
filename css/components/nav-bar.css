@@ -32,3 +32,14 @@
   left: 15px;
   bottom: 15px;
 }
+
+.nav__circle {
+  background-color: tomato;
+  display: flex;
+  width: 7px;
+  height: 7px;
+  border-radius: 15px;
+  position: absolute;
+  left: 33px;
+  top: -15px;
+}
