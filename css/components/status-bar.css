@@ -4,7 +4,8 @@
   padding: 5px 3px;
 }
 .status-bar__column {
-  width: 33%;
+  width: 100%;
+  position: fixed;
 }
 
 .status-bar__column:first-child span {
