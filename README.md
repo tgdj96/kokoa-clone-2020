@@ -1,3 +1,1 @@
-# First website made by myself
-
-# finished writing html for index file of kokoa-clone
+# finished writing html and css for index file of kokoa-clone
